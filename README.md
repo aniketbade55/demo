@@ -1,4 +1,4 @@
-# demo
+# demo Project
 This is my frist repository
 <br>
-<i>author - Aniket Bade </i>
+author - Aniket Bade 
